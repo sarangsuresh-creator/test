@@ -1,0 +1,9 @@
+1. Motor Direction Control using Push Buttons
+2. LED Blinking Speed Control with Potentiometer
+3. Emergency Stop for Motor using Button
+4. LED Chaser with Speed Control using potentiometer
+5. Bidirectional Motor Control with Two Buttons in 
+   pic
+6. led blink pattern selector in pic .use 8 leds and create 3 different blinking patterns using led and use push button to change led patterns 
+7. Turn a led on then off then 2 led on then off then 3 till 8 led in a pattern and also do it in reverse also
+8. control the speed of the motor using l293d in arduino.for controlling the speed of the motor you have to use the enable pin
