@@ -1,5 +1,5 @@
 # test
 
-[cprogram_exam](https://privatebin.net/?96df9f0104f07b6c#3wVuU8gRPeUonGdbRQC7he8StC34fjXVg9dHKg3WoSaY)
+[cprogram_exam](https://docs.google.com/forms/d/e/1FAIpQLSe3LZXLXr-6CZRyj3gllKmTxzitSxLC8I6g3hfzuEMvPjYpow/viewform?usp=sf_link)
 
 
